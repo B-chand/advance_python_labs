@@ -1,0 +1,9 @@
+date,store_id,region,product_category,sales_amount,units_sold
+2024-01-01,S01,North,Electronics,15000,25
+2024-01-01,S01,North,Clothing,8000,120
+2024-01-01,S02,South,Electronics,12000,20
+2024-01-01,S02,South,Furniture,5000,10
+2024-01-02,S01,North,Electronics,18000,30
+2024-01-02,S01,North,Clothing,9500,135
+2024-01-02,S02,South,Electronics,13500,22
+2024-01-02,S03,East,Clothing,7000,95

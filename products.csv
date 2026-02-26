@@ -1,0 +1,5 @@
+product_id,product_name,category,unit_price,supplier_id,stock_qty
+PROD201,Laptop,Electronics,1200.00,SUP01,50
+PROD202,Coffee Maker,Appliances,89.99,SUP02,100
+PROD203,Office Chair,Furniture,250.00,SUP01,75
+PROD205,Headphones,Electronics,150.00,SUP03,200

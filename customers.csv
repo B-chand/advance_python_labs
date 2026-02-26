@@ -1,0 +1,4 @@
+customer_id,name,email,city,country,join_date,loyalty_tier
+CUST101,Alice Brown,alice@email.com,New York,USA,2023-03-15,Gold
+CUST102,Bob Smith,bob@email.com,London,UK,2023-05-20,Silver
+CUST105,Carol White,carol@email.com,Tokyo,Japan,2023-07-10,Gold
